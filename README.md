@@ -56,14 +56,13 @@ $ ./cdt
 
 ---
 
-[Ikko Tsuha](https://github.com/Ikko-T)
+[IT](https://github.com/Ikko-T)
 
-- GitHub: [@Ikko-T](https://github.com/Ikko-T)
+- GitHub: [@IT](https://github.com/Ikko-T)
 
-- Qiita: <a href="https://qiita.com/Ikko-T" target="_blank" rel="noopener">@Ikko-T</a>
 
 ## Licence
 
 ---
 
-(C)Copyright 2023 Ikko Tsuha
+(C)Copyright 2023 IT
